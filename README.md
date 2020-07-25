@@ -3,7 +3,7 @@
 This repository accompanies [*Python Projects for Beginners*](https://www.apress.com/9781484253540) by Connor Milliken (Apress, 2020).
 
 [comment]: #cover
-![Cover image](9781484253540.jpg)
+![Cover image](images/9781484253540.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
